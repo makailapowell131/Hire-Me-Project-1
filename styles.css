@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(#ffff00, #800080, #ffa500, #008000);
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.grade {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #ffffff;
+}
+
+Hobbies {
+    background-color: #cc33ff;
+}
+
+.fun-hobbies {
+    color: #ffffff;
+}
+
+.movie {
+    color: #ff66cc;
+}
+
+.favorites {
+    color: #000099;
+}
+
+.favorites {
+    font-family: 'Shadows Into Light', cursive;
+    color: #cc3399;
+}
+
+.self {
+    font-family: 'Nerko One', cursive;
+    color: #cc0066;
+}
+
+.fun-hobbies {
+    font-family: 'Xanh Mono', monospace;
+}
+
+.color {
+    font-family: 'Acme', sans-serif;
+    color: #003366;
+}
+
+img {
+    width: 377px;
+}
+
+.movie {
+    font-family: 'Playfair Display', serif;
+}
